@@ -36,6 +36,8 @@ On the release page, under **Assets**, download **`OrderNow-POS-Setup-x.y.z.exe`
    - **Users** — staff, their PINs and roles
    - **Settings** — tax, service charge, receipt text, colours
 
+   Tip: on the **Printers** screen, **Detect printers** finds printers on the network and on this PC and fills in their details.
+
 ## 🖥️ More tills, kitchen screens and waiter phones
 
 One PC is the **main PC**: it keeps all the data. Other devices connect to it over your network.
@@ -84,6 +86,7 @@ All data stays on the main PC, in `%APPDATA%\OrderNow POS\`:
 
 | Version | Date | Notes |
 |---|---|---|
+| [0.2.0](https://github.com/saqlain-codecraf/Ordernow-releases/releases/tag/v0.2.0) | 24 Oct 2026 | Expenses, Balance sheet, customer credit accounts (pay later, receive payment, statements), Detect printers |
 | [0.1.0](https://github.com/saqlain-codecraf/Ordernow-releases/releases/tag/v0.1.0) | 24 Oct 2026 | First release |
 
 ---
