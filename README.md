@@ -87,6 +87,7 @@ All data stays on the main PC, in `%APPDATA%\OrderNow POS\`:
 
 | Version | Date | Notes |
 |---|---|---|
+| [0.3.0](https://github.com/saqlain-codecraf/Ordernow-releases/releases/tag/v0.3.0) | 28 Oct 2026 | Licence status: the provider can show a message or lock a POS (7 days' notice first). Contact 0349 3437606 |
 | [0.2.1](https://github.com/saqlain-codecraf/Ordernow-releases/releases/tag/v0.2.1) | 28 Oct 2026 | Sends the developer a short install report (restaurant name, phone, version) once after setup and once a month |
 | [0.2.0](https://github.com/saqlain-codecraf/Ordernow-releases/releases/tag/v0.2.0) | 24 Oct 2026 | Expenses, Balance sheet, customer credit accounts (pay later, receive payment, statements), Detect printers |
 | [0.1.0](https://github.com/saqlain-codecraf/Ordernow-releases/releases/tag/v0.1.0) | 24 Oct 2026 | First release |
