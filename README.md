@@ -70,6 +70,7 @@ All data stays on the main PC, in `%APPDATA%\OrderNow POS\`:
 | `logs` | Logs for troubleshooting |
 
 - **Updating or uninstalling OrderNow does not delete this folder.**
+- When the PC is online, OrderNow tells the developer it is installed — restaurant name, phone, address and app version — once after setup and then once a month. Orders, sales and customer details are never sent.
 - Make extra backups from **Settings → Backups**, and copy the `backups` folder to a USB drive or cloud storage now and then.
 - To move to a new PC, install OrderNow there and restore a backup from **Settings → Backups**.
 
@@ -86,6 +87,7 @@ All data stays on the main PC, in `%APPDATA%\OrderNow POS\`:
 
 | Version | Date | Notes |
 |---|---|---|
+| [0.2.1](https://github.com/saqlain-codecraf/Ordernow-releases/releases/tag/v0.2.1) | 28 Oct 2026 | Sends the developer a short install report (restaurant name, phone, version) once after setup and once a month |
 | [0.2.0](https://github.com/saqlain-codecraf/Ordernow-releases/releases/tag/v0.2.0) | 24 Oct 2026 | Expenses, Balance sheet, customer credit accounts (pay later, receive payment, statements), Detect printers |
 | [0.1.0](https://github.com/saqlain-codecraf/Ordernow-releases/releases/tag/v0.1.0) | 24 Oct 2026 | First release |
 
